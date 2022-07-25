@@ -1,0 +1,6 @@
+# Typique d'un node_module
+node_modules/
+# Pour les tests
+coverage/
+# Le build de l'app
+dist/
